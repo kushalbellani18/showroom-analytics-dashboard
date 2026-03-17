@@ -134,7 +134,7 @@ const App = () => {
   return (
     <div style={{ backgroundColor: '#121212', color: '#fff', minHeight: '100vh', padding: '30px', fontFamily: 'sans-serif' }}>
       <header style={{ marginBottom: '30px' }}>
-        <h1 style={{ fontSize: '22px', color: '#00d2ff' }}>CAR MOTORS ANALYTICS</h1>
+        <h1 style={{ fontSize: '22px', color: '#00d2ff' }}>United Motors Group Showroom Analytics</h1>
       </header>
 
       {/* Stats with Logos */}
